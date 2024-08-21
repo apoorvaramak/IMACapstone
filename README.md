@@ -22,7 +22,7 @@ of the appeal of their respective games, proving that controllers are an importa
 be a way to bring this experience of rhythm games with interactive and fun controllers to people that cannot use other controllers for accessibility 
 reasons. 
 
-My methodology paper: [Rockability Methodology]([https://docs.google.com/document/d/1daU802IY3BotkysuSGIduLyPuVH3o-0ZAiAR2asu1aM/edit](https://docs.google.com/document/d/1daU802IY3BotkysuSGIduLyPuVH3o-0ZAiAR2asu1aM/edit?usp=sharing))
+My methodology paper: [Rockability Methodology]([https://docs.google.com/document/d/1daU802IY3BotkysuSGIduLyPuVH3o-0ZAiAR2asu1aM/edit](https://docs.google.com/document/d/1daU802IY3BotkysuSGIduLyPuVH3o-0ZAiAR2asu1aM/edit?usp=sharing)
 
 # Sources
 Linked is my list of sources with a description of each source: [Sources](https://docs.google.com/document/d/1HTuRARraQH6_9_X4f2sUdfzUAm7LvBFcZFL6lR3-cpw/edit?usp=sharing)
